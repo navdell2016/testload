@@ -1212,3 +1212,5 @@ Hide those navs, boi! Hide those navs, boi! Hide those navs, boi!
 Derp search/replace fuckup Derp search/replace fuckup Derp search/replace fuckup
 589
 Don't push this commit Don't push this commit Don't push this commit
+590
+Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium.
