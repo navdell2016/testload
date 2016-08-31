@@ -1090,3 +1090,5 @@ debug suff debug suff debug suff
 i think i fixed a bug... i think i fixed a bug... i think i fixed a bug...
 528
 final commit. final commit. final commit.
+529
+clarify further the brokenness of C++. why the fuck are we using C++? clarify further the brokenness of C++. why the fuck are we using C++? clarify further the brokenness of C++. why the fuck are we using C++?
