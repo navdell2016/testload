@@ -8781,3 +8781,5 @@ pgsql is being a pain pgsql is being a pain pgsql is being a pain
 Misc. fixes Misc. fixes Misc. fixes
 1251
 Herp derp I left the debug in there and forgot to reset errors. Herp derp I left the debug in there and forgot to reset errors. Herp derp I left the debug in there and forgot to reset errors.
+1252
+Handled a particular error. Handled a particular error. Handled a particular error.
