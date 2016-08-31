@@ -958,3 +958,5 @@ extra debug for stuff module extra debug for stuff module extra debug for stuff 
 Ugh. Bad rebase. Ugh. Bad rebase. Ugh. Bad rebase.
 462
 It'd be nice if type errors caused the compiler to issue a type error It'd be nice if type errors caused the compiler to issue a type error It'd be nice if type errors caused the compiler to issue a type error
+463
+It only compiles every 2 tries... good luck. It only compiles every 2 tries... good luck. It only compiles every 2 tries... good luck.
