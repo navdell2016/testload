@@ -8771,3 +8771,5 @@ Your commit is writing checks your merge can't cash. Your commit is writing chec
 mergederp mergederp mergederp
 1246
 Derp search/replace fuckup Derp search/replace fuckup Derp search/replace fuckup
+1247
+after of this commit remember do a git reset hard after of this commit remember do a git reset hard after of this commit remember do a git reset hard
