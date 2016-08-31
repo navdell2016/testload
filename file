@@ -1324,3 +1324,5 @@ changes changes changes
 I really should've committed this when I finished it... I really should've committed this when I finished it... I really should've committed this when I finished it...
 645
 debug line test debug line test debug line test
+646
+Herp derp I left the debug in there and forgot to reset errors. Herp derp I left the debug in there and forgot to reset errors. Herp derp I left the debug in there and forgot to reset errors.
