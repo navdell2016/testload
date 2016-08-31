@@ -1866,3 +1866,5 @@ This branch is so dirty, even your mom can't clean it. This branch is so dirty, 
 Switched off unit test 12 because the build had to go out now and there was no time to fix it properly. Switched off unit test 12 because the build had to go out now and there was no time to fix it properly. Switched off unit test 12 because the build had to go out now and there was no time to fix it properly.
 916
 This is a basic implementation that works. This is a basic implementation that works. This is a basic implementation that works.
+917
+Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium.
