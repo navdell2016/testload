@@ -1214,3 +1214,5 @@ Derp search/replace fuckup Derp search/replace fuckup Derp search/replace fuckup
 Don't push this commit Don't push this commit Don't push this commit
 590
 Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium.
+591
+removed tests since i can't make them green removed tests since i can't make them green removed tests since i can't make them green
