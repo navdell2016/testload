@@ -3660,3 +3660,5 @@ Removed test case since code didn't pass QA Removed test case since code didn't 
 fixed some minor stuff, might need some additional work. fixed some minor stuff, might need some additional work. fixed some minor stuff, might need some additional work.
 1807
 Whee, good night. Whee, good night. Whee, good night.
+1808
+Fixed a bug in NoteLineCount... not seriously... Fixed a bug in NoteLineCount... not seriously... Fixed a bug in NoteLineCount... not seriously...
