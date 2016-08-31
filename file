@@ -780,3 +780,5 @@ Fix hard-coded [object Object] string (thanks!) Fix hard-coded [object Object] s
 Herpy dooves. Herpy dooves. Herpy dooves.
 373
 And a commit that I don't know the reason of... And a commit that I don't know the reason of... And a commit that I don't know the reason of...
+374
+Derp, asset redirection in dev mode Derp, asset redirection in dev mode Derp, asset redirection in dev mode
