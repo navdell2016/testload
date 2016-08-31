@@ -464,3 +464,5 @@ clarify further the brokenness of C++. why the fuck are we using C++? clarify fu
 dirty hack, have a better idea ? dirty hack, have a better idea ? dirty hack, have a better idea ?
 215
 workaround for ant being a pile of fail workaround for ant being a pile of fail workaround for ant being a pile of fail
+216
+copy and paste is not a design pattern copy and paste is not a design pattern copy and paste is not a design pattern
