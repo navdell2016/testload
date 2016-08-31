@@ -9577,3 +9577,5 @@ forgot we're not using a smart language forgot we're not using a smart language 
 I had a cup of tea and now it's fixed I had a cup of tea and now it's fixed I had a cup of tea and now it's fixed
 373
 SOAP is a piece of shit SOAP is a piece of shit SOAP is a piece of shit
+374
+Fix hard-coded [object Object] string (thanks!) Fix hard-coded [object Object] string (thanks!) Fix hard-coded [object Object] string (thanks!)
