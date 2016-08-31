@@ -774,3 +774,5 @@ To be honest, I do not quite remember everything I changed here today. But it is
 Crap. Tonight is raid night and I am already late. Crap. Tonight is raid night and I am already late. Crap. Tonight is raid night and I am already late.
 370
 better ignores better ignores better ignores
+371
+Fix hard-coded [object Object] string (thanks!) Fix hard-coded [object Object] string (thanks!) Fix hard-coded [object Object] string (thanks!)
