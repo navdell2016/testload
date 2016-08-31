@@ -9829,3 +9829,5 @@ clarify further the brokenness of C++. why the fuck are we using C++? clarify fu
 making this thing actually usable. making this thing actually usable. making this thing actually usable.
 499
 forgot we're not using a smart language forgot we're not using a smart language forgot we're not using a smart language
+500
+Fixed a little bug... Fixed a little bug... Fixed a little bug...
