@@ -3568,3 +3568,5 @@ clarify further the brokenness of C++. why the fuck are we using C++? clarify fu
 This branch is so dirty, even your mom can't clean it. This branch is so dirty, even your mom can't clean it. This branch is so dirty, even your mom can't clean it.
 1761
 fixed conflicts (LOL merge -s ours; push -f) fixed conflicts (LOL merge -s ours; push -f) fixed conflicts (LOL merge -s ours; push -f)
+1762
+Herp derp I left the debug in there and forgot to reset errors. Herp derp I left the debug in there and forgot to reset errors. Herp derp I left the debug in there and forgot to reset errors.
