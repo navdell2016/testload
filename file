@@ -8785,3 +8785,5 @@ Herp derp I left the debug in there and forgot to reset errors. Herp derp I left
 Handled a particular error. Handled a particular error. Handled a particular error.
 1253
 It only compiles every 3 tries... good luck. It only compiles every 3 tries... good luck. It only compiles every 3 tries... good luck.
+1254
+Derp, asset redirection in dev mode Derp, asset redirection in dev mode Derp, asset redirection in dev mode
