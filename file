@@ -6792,3 +6792,5 @@ I can't believe it took so long to fix this. I can't believe it took so long to 
 Code was clean until manager requested to fuck it up Code was clean until manager requested to fuck it up Code was clean until manager requested to fuck it up
 267
 That last commit message about silly mistakes pales in comparision to this one That last commit message about silly mistakes pales in comparision to this one That last commit message about silly mistakes pales in comparision to this one
+268
+Removed test case since code didn't pass QA Removed test case since code didn't pass QA Removed test case since code didn't pass QA
