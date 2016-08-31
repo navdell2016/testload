@@ -8445,3 +8445,5 @@ debug line test debug line test debug line test
 Does not work. Does not work. Does not work.
 1086
 Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium.
+1087
+I know, I know, this is not how I’m supposed to do it, but I can't think of something better. I know, I know, this is not how I’m supposed to do it, but I can't think of something better. I know, I know, this is not how I’m supposed to do it, but I can't think of something better.
