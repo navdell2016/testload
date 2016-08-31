@@ -2826,3 +2826,5 @@ ffs ffs ffs
 Locating the required gigapixels to render... Locating the required gigapixels to render... Locating the required gigapixels to render...
 1396
 Herp derp I left the debug in there and forgot to reset errors. Herp derp I left the debug in there and forgot to reset errors. Herp derp I left the debug in there and forgot to reset errors.
+1397
+fixed errors in the previous commit fixed errors in the previous commit fixed errors in the previous commit
