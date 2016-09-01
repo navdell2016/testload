@@ -19484,3 +19484,5 @@ Some bugs fixed Some bugs fixed Some bugs fixed
 It's secret! It's secret! It's secret!
 9655
 extra debug for stuff module extra debug for stuff module extra debug for stuff module
+9656
+Herp derp I left the debug in there and forgot to reset errors. Herp derp I left the debug in there and forgot to reset errors. Herp derp I left the debug in there and forgot to reset errors.
