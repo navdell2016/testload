@@ -3920,3 +3920,5 @@ debugo debugo debugo
 removed tests since i can't make them green removed tests since i can't make them green removed tests since i can't make them green
 1942
 fuckup. fuckup. fuckup.
+1943
+It'd be nice if type errors caused the compiler to issue a type error It'd be nice if type errors caused the compiler to issue a type error It'd be nice if type errors caused the compiler to issue a type error
