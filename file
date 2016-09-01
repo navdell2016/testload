@@ -12,3 +12,5 @@ really ignore ignored worsd really ignore ignored worsd really ignore ignored wo
 debug suff debug suff debug suff
 6
 pep8 fixer pep8 fixer pep8 fixer
+7
+after of this commit remember do a git reset hard after of this commit remember do a git reset hard after of this commit remember do a git reset hard
