@@ -8045,3 +8045,5 @@ copy and paste is not a design pattern copy and paste is not a design pattern co
 s/    /  /g s/    /  /g s/    /  /g
 3976
 Things went wrong... Things went wrong... Things went wrong...
+3977
+Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium.
