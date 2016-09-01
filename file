@@ -10299,3 +10299,5 @@ Removed test case since code didn't pass QA Removed test case since code didn't 
 Merge pull request #67 from Lazersmoke/fix-andys-shit Fix andys shit Merge pull request #67 from Lazersmoke/fix-andys-shit Fix andys shit Merge pull request #67 from Lazersmoke/fix-andys-shit Fix andys shit
 5097
 Fixed Bug Fixed Bug Fixed Bug
+5098
+Fixed a bug in NoteLineCount... not seriously... Fixed a bug in NoteLineCount... not seriously... Fixed a bug in NoteLineCount... not seriously...
