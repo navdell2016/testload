@@ -23695,3 +23695,5 @@ It only compiles every 2 tries... good luck. It only compiles every 2 tries... g
 fixed some minor stuff, might need some additional work. fixed some minor stuff, might need some additional work. fixed some minor stuff, might need some additional work.
 18
 Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium.
+19
+debugo debugo debugo
