@@ -2245,3 +2245,5 @@ if you're not using et, fuck off if you're not using et, fuck off if you're not 
 Fix hard-coded [object Object] string (thanks!) Fix hard-coded [object Object] string (thanks!) Fix hard-coded [object Object] string (thanks!)
 18
 Switched off unit test 1 because the build had to go out now and there was no time to fix it properly. Switched off unit test 1 because the build had to go out now and there was no time to fix it properly. Switched off unit test 1 because the build had to go out now and there was no time to fix it properly.
+19
+The last time I tried this the monkey didn't survive. Let's hope it works better this time. The last time I tried this the monkey didn't survive. Let's hope it works better this time. The last time I tried this the monkey didn't survive. Let's hope it works better this time.
