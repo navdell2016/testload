@@ -17434,3 +17434,5 @@ assorted changes assorted changes assorted changes
 Spinning up the hamster... Spinning up the hamster... Spinning up the hamster...
 8642
 Added translation. Added translation. Added translation.
+8643
+pgsql is more strict, increase the hackiness up to 11 pgsql is more strict, increase the hackiness up to 11 pgsql is more strict, increase the hackiness up to 11
