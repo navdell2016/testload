@@ -152,3 +152,5 @@ more stuff more stuff more stuff
 debug line test debug line test debug line test
 24
 I should have had a V8 this morning. I should have had a V8 this morning. I should have had a V8 this morning.
+25
+Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium.
