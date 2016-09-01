@@ -17378,3 +17378,5 @@ This commit is a lie This commit is a lie This commit is a lie
 removed echo and die statements, lolz. removed echo and die statements, lolz. removed echo and die statements, lolz.
 8614
 Handled a particular error. Handled a particular error. Handled a particular error.
+8615
+Reset error count between rows. herpderp Reset error count between rows. herpderp Reset error count between rows. herpderp
