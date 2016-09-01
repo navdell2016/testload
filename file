@@ -13529,3 +13529,5 @@ pgsql is being a pain pgsql is being a pain pgsql is being a pain
 debug suff debug suff debug suff
 6706
 RUPERT, WE WENT OVER THIS. EXPANDTAB. RUPERT, WE WENT OVER THIS. EXPANDTAB. RUPERT, WE WENT OVER THIS. EXPANDTAB.
+6707
+It'd be nice if type errors caused the compiler to issue a type error It'd be nice if type errors caused the compiler to issue a type error It'd be nice if type errors caused the compiler to issue a type error
