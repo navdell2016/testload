@@ -5472,3 +5472,5 @@ needs more cow bell needs more cow bell needs more cow bell
 It's 2016; why are we using ColdFusion?! It's 2016; why are we using ColdFusion?! It's 2016; why are we using ColdFusion?!
 2703
 Removed test case since code didn't pass QA Removed test case since code didn't pass QA Removed test case since code didn't pass QA
+2704
+This really should not take 19 minutes to build. This really should not take 19 minutes to build. This really should not take 19 minutes to build.
