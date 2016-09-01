@@ -2943,3 +2943,5 @@ Lock S-foils in attack position Lock S-foils in attack position Lock S-foils in 
 i dunno, maybe this works i dunno, maybe this works i dunno, maybe this works
 1455
 oops - thought I got that one. oops - thought I got that one. oops - thought I got that one.
+1456
+Removed test case since code didn't pass QA Removed test case since code didn't pass QA Removed test case since code didn't pass QA
