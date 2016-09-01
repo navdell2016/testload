@@ -13935,3 +13935,5 @@ Locating the required gigapixels to render... Locating the required gigapixels t
 more fixes more fixes more fixes
 6909
 I'M PUSHING. I'M PUSHING. I'M PUSHING.
+6910
+Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium.
