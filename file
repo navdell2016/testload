@@ -5476,3 +5476,5 @@ Removed test case since code didn't pass QA Removed test case since code didn't 
 This really should not take 19 minutes to build. This really should not take 19 minutes to build. This really should not take 19 minutes to build.
 2705
 clarify further the brokenness of C++. why the fuck are we using C++? clarify further the brokenness of C++. why the fuck are we using C++? clarify further the brokenness of C++. why the fuck are we using C++?
+2706
+I'm too foo for this bar I'm too foo for this bar I'm too foo for this bar
