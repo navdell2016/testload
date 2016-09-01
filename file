@@ -2865,3 +2865,5 @@ Use a real JS construct, WTF knows why this works in chromium. Use a real JS con
 /sigh /sigh /sigh
 1416
 Working on tests (haha) Working on tests (haha) Working on tests (haha)
+1417
+Douglas broke the regex, lame Douglas broke the regex, lame Douglas broke the regex, lame
