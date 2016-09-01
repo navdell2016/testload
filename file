@@ -23697,3 +23697,5 @@ fixed some minor stuff, might need some additional work. fixed some minor stuff,
 Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium.
 19
 debugo debugo debugo
+20
+added super-widget 2.0. added super-widget 2.0. added super-widget 2.0.
