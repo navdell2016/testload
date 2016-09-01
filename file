@@ -23455,3 +23455,5 @@ forgot to save that file forgot to save that file forgot to save that file
 Same as last commit with changes Same as last commit with changes Same as last commit with changes
 2
 Fixing coopermaruyama's bug. Fixing coopermaruyama's bug. Fixing coopermaruyama's bug.
+3
+Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium.
