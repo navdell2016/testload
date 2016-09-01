@@ -7643,3 +7643,5 @@ This is supposed to crash This is supposed to crash This is supposed to crash
 Finished fondling. Finished fondling. Finished fondling.
 3775
 Herpy dooves. Herpy dooves. Herpy dooves.
+3776
+It'd be nice if type errors caused the compiler to issue a type error It'd be nice if type errors caused the compiler to issue a type error It'd be nice if type errors caused the compiler to issue a type error
