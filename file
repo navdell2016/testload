@@ -15970,3 +15970,5 @@ fixed conflicts (LOL merge -s ours; push -f) fixed conflicts (LOL merge -s ours;
 Not sure why Not sure why Not sure why
 7922
 Gross hack because Maciej doesn't know how to code Gross hack because Maciej doesn't know how to code Gross hack because Maciej doesn't know how to code
+7923
+clarify further the brokenness of C++. why the fuck are we using C++? clarify further the brokenness of C++. why the fuck are we using C++? clarify further the brokenness of C++. why the fuck are we using C++?
