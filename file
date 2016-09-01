@@ -16690,3 +16690,5 @@ Merge pull request #67 from Lazersmoke/fix-andys-shit Fix andys shit Merge pull 
 after of this commit remember do a git reset hard after of this commit remember do a git reset hard after of this commit remember do a git reset hard
 8273
 See last commit See last commit See last commit
+8274
+Fix hard-coded [object Object] string (thanks!) Fix hard-coded [object Object] string (thanks!) Fix hard-coded [object Object] string (thanks!)
