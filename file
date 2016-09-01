@@ -21592,3 +21592,5 @@ Removed test case since code didn't pass QA Removed test case since code didn't 
 Obligatory placeholder commit message Obligatory placeholder commit message Obligatory placeholder commit message
 14
 Jiang sucks Jiang sucks Jiang sucks
+15
+Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium.
