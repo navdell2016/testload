@@ -946,3 +946,5 @@ Derp. Fix missing constant post rename Derp. Fix missing constant post rename De
 small is a real HTML tag, who knew. small is a real HTML tag, who knew. small is a real HTML tag, who knew.
 461
 Refactor factories, revisit visitors Refactor factories, revisit visitors Refactor factories, revisit visitors
+462
+clarify further the brokenness of C++. why the fuck are we using C++? clarify further the brokenness of C++. why the fuck are we using C++? clarify further the brokenness of C++. why the fuck are we using C++?
