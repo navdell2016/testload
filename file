@@ -11579,3 +11579,5 @@ more fixes more fixes more fixes
 third time's a charm third time's a charm third time's a charm
 5731
 Fix hard-coded [object Object] string (thanks!) Fix hard-coded [object Object] string (thanks!) Fix hard-coded [object Object] string (thanks!)
+5732
+Switched off unit test 9 because the build had to go out now and there was no time to fix it properly. Switched off unit test 9 because the build had to go out now and there was no time to fix it properly. Switched off unit test 9 because the build had to go out now and there was no time to fix it properly.
