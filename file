@@ -6577,3 +6577,5 @@ Done, to whoever merges this, good luck. Done, to whoever merges this, good luck
 Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium.
 3251
 A fix I believe, not like I tested or anything A fix I believe, not like I tested or anything A fix I believe, not like I tested or anything
+3252
+small is a real HTML tag, who knew. small is a real HTML tag, who knew. small is a real HTML tag, who knew.
