@@ -12649,3 +12649,5 @@ that coulda been bad that coulda been bad that coulda been bad
 MINIMAL, WE WENT OVER THIS. C++ IO SUCKS. MINIMAL, WE WENT OVER THIS. C++ IO SUCKS. MINIMAL, WE WENT OVER THIS. C++ IO SUCKS.
 6266
 this should fix it this should fix it this should fix it
+6267
+s/    /  /g s/    /  /g s/    /  /g
