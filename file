@@ -2241,3 +2241,5 @@ Herping the derp derp (silly scoping error) Herping the derp derp (silly scoping
 some brief changes some brief changes some brief changes
 16
 if you're not using et, fuck off if you're not using et, fuck off if you're not using et, fuck off
+17
+Fix hard-coded [object Object] string (thanks!) Fix hard-coded [object Object] string (thanks!) Fix hard-coded [object Object] string (thanks!)
