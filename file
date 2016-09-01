@@ -196,3 +196,5 @@ Some bugs fixed Some bugs fixed Some bugs fixed
 fix fix fix
 15
 I know, I know, this is not how I’m supposed to do it, but I can't think of something better. I know, I know, this is not how I’m supposed to do it, but I can't think of something better. I know, I know, this is not how I’m supposed to do it, but I can't think of something better.
+16
+s/    /  /g s/    /  /g s/    /  /g
