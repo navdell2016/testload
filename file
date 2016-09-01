@@ -5625,3 +5625,5 @@ Derp, asset redirection in dev mode Derp, asset redirection in dev mode Derp, as
 that's all folks that's all folks that's all folks
 2778
 REALLY FUCKING FIXED REALLY FUCKING FIXED REALLY FUCKING FIXED
+2779
+It'd be nice if type errors caused the compiler to issue a type error It'd be nice if type errors caused the compiler to issue a type error It'd be nice if type errors caused the compiler to issue a type error
