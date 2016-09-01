@@ -16812,3 +16812,5 @@ More ignore More ignore More ignore
 Lock S-foils in attack position Lock S-foils in attack position Lock S-foils in attack position
 8334
 oops! oops! oops!
+8335
+Removed test case since code didn't pass QA Removed test case since code didn't pass QA Removed test case since code didn't pass QA
