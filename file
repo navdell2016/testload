@@ -12761,3 +12761,5 @@ gave up and used tables. gave up and used tables. gave up and used tables.
 8==========D 8==========D 8==========D
 6322
 fail fail fail
+6323
+Fixed a bug in NoteLineCount... not seriously... Fixed a bug in NoteLineCount... not seriously... Fixed a bug in NoteLineCount... not seriously...
