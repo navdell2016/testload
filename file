@@ -1415,3 +1415,5 @@ Replace all whitespaces with tabs. Replace all whitespaces with tabs. Replace al
 should work I guess... should work I guess... should work I guess...
 694
 Some bugs fixed Some bugs fixed Some bugs fixed
+695
+Derp. Fix missing constant post rename Derp. Fix missing constant post rename Derp. Fix missing constant post rename
