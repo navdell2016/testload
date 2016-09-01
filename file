@@ -19996,3 +19996,5 @@ pgsql is being a pain pgsql is being a pain pgsql is being a pain
 Trust me, it's not badly written. It's just way above your head. Trust me, it's not badly written. It's just way above your head. Trust me, it's not badly written. It's just way above your head.
 9911
 Fixed the fuck out of #451! Fixed the fuck out of #451! Fixed the fuck out of #451!
+9912
+Reset error count between rows. herpderp Reset error count between rows. herpderp Reset error count between rows. herpderp
