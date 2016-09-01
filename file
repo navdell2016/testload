@@ -3922,3 +3922,5 @@ removed tests since i can't make them green removed tests since i can't make the
 fuckup. fuckup. fuckup.
 1943
 It'd be nice if type errors caused the compiler to issue a type error It'd be nice if type errors caused the compiler to issue a type error It'd be nice if type errors caused the compiler to issue a type error
+1944
+forgot we're not using a smart language forgot we're not using a smart language forgot we're not using a smart language
