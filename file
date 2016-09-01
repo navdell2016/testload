@@ -20480,3 +20480,5 @@ Fixed Bug Fixed Bug Fixed Bug
 Herping the derp Herping the derp Herping the derp
 7
 Removed test case since code didn't pass QA Removed test case since code didn't pass QA Removed test case since code didn't pass QA
+8
+removed echo and die statements, lolz. removed echo and die statements, lolz. removed echo and die statements, lolz.
