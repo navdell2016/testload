@@ -948,3 +948,5 @@ small is a real HTML tag, who knew. small is a real HTML tag, who knew. small is
 Refactor factories, revisit visitors Refactor factories, revisit visitors Refactor factories, revisit visitors
 462
 clarify further the brokenness of C++. why the fuck are we using C++? clarify further the brokenness of C++. why the fuck are we using C++? clarify further the brokenness of C++. why the fuck are we using C++?
+463
+I don't know what these changes are supposed to accomplish but somebody told me to make them. I don't know what these changes are supposed to accomplish but somebody told me to make them. I don't know what these changes are supposed to accomplish but somebody told me to make them.
