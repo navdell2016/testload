@@ -17292,3 +17292,5 @@ fail fail fail
 SOAP is a piece of shit SOAP is a piece of shit SOAP is a piece of shit
 8571
 It'd be nice if type errors caused the compiler to issue a type error It'd be nice if type errors caused the compiler to issue a type error It'd be nice if type errors caused the compiler to issue a type error
+8572
+Final commit, ready for tagging Final commit, ready for tagging Final commit, ready for tagging
