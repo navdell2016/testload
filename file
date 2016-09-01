@@ -18423,3 +18423,5 @@ Handled a particular error. Handled a particular error. Handled a particular err
 clarify further the brokenness of C++. why the fuck are we using C++? clarify further the brokenness of C++. why the fuck are we using C++? clarify further the brokenness of C++. why the fuck are we using C++?
 9129
 For the sake of my sanity, just ignore this... For the sake of my sanity, just ignore this... For the sake of my sanity, just ignore this...
+9130
+It'd be nice if type errors caused the compiler to issue a type error It'd be nice if type errors caused the compiler to issue a type error It'd be nice if type errors caused the compiler to issue a type error
