@@ -180,3 +180,5 @@ Commit committed.... Commit committed.... Commit committed....
 added super-widget 2.0. added super-widget 2.0. added super-widget 2.0.
 2
 more ignored words more ignored words more ignored words
+3
+Fix hard-coded [object Object] string (thanks!) Fix hard-coded [object Object] string (thanks!) Fix hard-coded [object Object] string (thanks!)
