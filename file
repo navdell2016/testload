@@ -6019,3 +6019,5 @@ Shovelling coal into the server... Shovelling coal into the server... Shovelling
 this is my quickfix branch and i will use to do my quickfixes this is my quickfix branch and i will use to do my quickfixes this is my quickfix branch and i will use to do my quickfixes
 2975
 bug fix bug fix bug fix
+2976
+Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium.
