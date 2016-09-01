@@ -2521,3 +2521,5 @@ Herp derp I left the debug in there and forgot to reset errors. Herp derp I left
 fixed some minor stuff, might need some additional work. fixed some minor stuff, might need some additional work. fixed some minor stuff, might need some additional work.
 0
 Refactored configuration. Refactored configuration. Refactored configuration.
+1
+Fixed a bug in NoteLineCount... not seriously... Fixed a bug in NoteLineCount... not seriously... Fixed a bug in NoteLineCount... not seriously...
