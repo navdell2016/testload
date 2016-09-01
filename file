@@ -1199,3 +1199,5 @@ bug fix bug fix bug fix
 Add Sandbox Add Sandbox Add Sandbox
 586
 Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium.
+587
+640K ought to be enough for anybody 640K ought to be enough for anybody 640K ought to be enough for anybody
