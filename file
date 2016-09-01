@@ -1229,3 +1229,5 @@ Issue #5 is now Issue #21 Issue #5 is now Issue #21 Issue #5 is now Issue #21
 Revert "fuckup". Revert "fuckup". Revert "fuckup".
 7
 This is supposed to crash This is supposed to crash This is supposed to crash
+8
+Your commit is writing checks your merge can't cash. Your commit is writing checks your merge can't cash. Your commit is writing checks your merge can't cash.
