@@ -1407,3 +1407,5 @@ clarify further the brokenness of C++. why the fuck are we using C++? clarify fu
 TODO: write meaningful commit message TODO: write meaningful commit message TODO: write meaningful commit message
 18
 Herpy dooves. Herpy dooves. Herpy dooves.
+19
+This is supposed to crash This is supposed to crash This is supposed to crash
