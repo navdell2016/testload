@@ -6023,3 +6023,5 @@ bug fix bug fix bug fix
 Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium.
 2977
 Removed code. Removed code. Removed code.
+2978
+fixed errors in the previous commit fixed errors in the previous commit fixed errors in the previous commit
