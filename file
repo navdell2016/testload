@@ -7675,3 +7675,5 @@ Popping stash Popping stash Popping stash
 Committed some changes Committed some changes Committed some changes
 3791
 Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium.
+3792
+fail fail fail
