@@ -5474,3 +5474,5 @@ It's 2016; why are we using ColdFusion?! It's 2016; why are we using ColdFusion?
 Removed test case since code didn't pass QA Removed test case since code didn't pass QA Removed test case since code didn't pass QA
 2704
 This really should not take 19 minutes to build. This really should not take 19 minutes to build. This really should not take 19 minutes to build.
+2705
+clarify further the brokenness of C++. why the fuck are we using C++? clarify further the brokenness of C++. why the fuck are we using C++? clarify further the brokenness of C++. why the fuck are we using C++?
