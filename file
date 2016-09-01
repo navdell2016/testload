@@ -18041,3 +18041,5 @@ Locating the required gigapixels to render... Locating the required gigapixels t
 Herp derp I left the debug in there and forgot to reset errors. Herp derp I left the debug in there and forgot to reset errors. Herp derp I left the debug in there and forgot to reset errors.
 8941
 Switched off unit test 15 because the build had to go out now and there was no time to fix it properly. Switched off unit test 15 because the build had to go out now and there was no time to fix it properly. Switched off unit test 15 because the build had to go out now and there was no time to fix it properly.
+8942
+PEBKAC PEBKAC PEBKAC
