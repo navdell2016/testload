@@ -10503,3 +10503,5 @@ Use a real JS construct, WTF knows why this works in chromium. Use a real JS con
 pep8 - cause I fell like doing a barrel roll pep8 - cause I fell like doing a barrel roll pep8 - cause I fell like doing a barrel roll
 5199
 Last time I said it works? I was kidding.  Try this. Last time I said it works? I was kidding.  Try this. Last time I said it works? I was kidding.  Try this.
+5200
+clarify further the brokenness of C++. why the fuck are we using C++? clarify further the brokenness of C++. why the fuck are we using C++? clarify further the brokenness of C++. why the fuck are we using C++?
