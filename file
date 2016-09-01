@@ -8082,3 +8082,5 @@ pointless limitation pointless limitation pointless limitation
 Commit committed.... Commit committed.... Commit committed....
 3993
 L1NT broke the regex, lame L1NT broke the regex, lame L1NT broke the regex, lame
+3994
+This is why git rebase is a horrible horrible thing. This is why git rebase is a horrible horrible thing. This is why git rebase is a horrible horrible thing.
