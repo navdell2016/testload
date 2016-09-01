@@ -20662,3 +20662,5 @@ This really should not take 19 minutes to build. This really should not take 19 
 [Insert your commit message here. Be sure to make it descriptive.] [Insert your commit message here. Be sure to make it descriptive.] [Insert your commit message here. Be sure to make it descriptive.]
 17
 better ignores better ignores better ignores
+18
+This is why git rebase is a horrible horrible thing. This is why git rebase is a horrible horrible thing. This is why git rebase is a horrible horrible thing.
