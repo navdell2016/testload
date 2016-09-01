@@ -2302,3 +2302,5 @@ Batman! (this commit has no parents) Batman! (this commit has no parents) Batman
 This is the last time we let Wes commit ascii porn in the comments. This is the last time we let Wes commit ascii porn in the comments. This is the last time we let Wes commit ascii porn in the comments.
 1136
 I don't know what these changes are supposed to accomplish but somebody told me to make them. I don't know what these changes are supposed to accomplish but somebody told me to make them. I don't know what these changes are supposed to accomplish but somebody told me to make them.
+1137
+Herp derp I left the debug in there and forgot to reset errors. Herp derp I left the debug in there and forgot to reset errors. Herp derp I left the debug in there and forgot to reset errors.
