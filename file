@@ -6573,3 +6573,5 @@ Merge pull request #67 from Lazersmoke/fix-andys-shit Fix andys shit Merge pull 
 Some bugs fixed Some bugs fixed Some bugs fixed
 3249
 Done, to whoever merges this, good luck. Done, to whoever merges this, good luck. Done, to whoever merges this, good luck.
+3250
+Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium.
