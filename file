@@ -9108,3 +9108,5 @@ changes changes changes
 arrrggghhhhh fixed! arrrggghhhhh fixed! arrrggghhhhh fixed!
 4503
 Fix hard-coded [object Object] string (thanks!) Fix hard-coded [object Object] string (thanks!) Fix hard-coded [object Object] string (thanks!)
+4504
+Herp derp I left the debug in there and forgot to reset errors. Herp derp I left the debug in there and forgot to reset errors. Herp derp I left the debug in there and forgot to reset errors.
