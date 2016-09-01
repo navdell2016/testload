@@ -12909,3 +12909,5 @@ QuickFix. QuickFix. QuickFix.
 Herp derp I left the debug in there and forgot to reset errors. Herp derp I left the debug in there and forgot to reset errors. Herp derp I left the debug in there and forgot to reset errors.
 6396
 various changes various changes various changes
+6397
+Switched off unit test 10 because the build had to go out now and there was no time to fix it properly. Switched off unit test 10 because the build had to go out now and there was no time to fix it properly. Switched off unit test 10 because the build had to go out now and there was no time to fix it properly.
