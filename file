@@ -296,3 +296,5 @@ clarify further the brokenness of C++. why the fuck are we using C++? clarify fu
 Popping stash Popping stash Popping stash
 136
 after of this commit remember do a git reset hard after of this commit remember do a git reset hard after of this commit remember do a git reset hard
+137
+Now added delete for real Now added delete for real Now added delete for real
