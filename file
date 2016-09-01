@@ -14097,3 +14097,5 @@ derp, helper method rename derp, helper method rename derp, helper method rename
 someone fails and it isn't me someone fails and it isn't me someone fails and it isn't me
 6990
 need another beer need another beer need another beer
+6991
+Fix hard-coded [object Object] string (thanks!) Fix hard-coded [object Object] string (thanks!) Fix hard-coded [object Object] string (thanks!)
