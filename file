@@ -17156,3 +17156,5 @@ stopped caring 17 commits ago stopped caring 17 commits ago stopped caring 17 co
 This is why git rebase is a horrible horrible thing. This is why git rebase is a horrible horrible thing. This is why git rebase is a horrible horrible thing.
 8503
 harharhar harharhar harharhar
+8504
+clarify further the brokenness of C++. why the fuck are we using C++? clarify further the brokenness of C++. why the fuck are we using C++? clarify further the brokenness of C++. why the fuck are we using C++?
