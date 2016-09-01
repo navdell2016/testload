@@ -1401,3 +1401,5 @@ TODO: write meaningful commit message TODO: write meaningful commit message TODO
 somebody keeps erasing my changes. somebody keeps erasing my changes. somebody keeps erasing my changes.
 15
 Revert "just testing, remember to revert" Revert "just testing, remember to revert" Revert "just testing, remember to revert"
+16
+clarify further the brokenness of C++. why the fuck are we using C++? clarify further the brokenness of C++. why the fuck are we using C++? clarify further the brokenness of C++. why the fuck are we using C++?
