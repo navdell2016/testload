@@ -12653,3 +12653,5 @@ this should fix it this should fix it this should fix it
 s/    /  /g s/    /  /g s/    /  /g
 6268
 bla bla bla
+6269
+Derp, asset redirection in dev mode Derp, asset redirection in dev mode Derp, asset redirection in dev mode
