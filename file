@@ -184,3 +184,5 @@ more ignored words more ignored words more ignored words
 Fix hard-coded [object Object] string (thanks!) Fix hard-coded [object Object] string (thanks!) Fix hard-coded [object Object] string (thanks!)
 4
 a few bits tried to escape, but we caught them a few bits tried to escape, but we caught them a few bits tried to escape, but we caught them
+5
+clarify further the brokenness of C++. why the fuck are we using C++? clarify further the brokenness of C++. why the fuck are we using C++? clarify further the brokenness of C++. why the fuck are we using C++?
