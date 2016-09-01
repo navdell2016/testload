@@ -142,3 +142,5 @@ This is a basic implementation that works. This is a basic implementation that w
 Fixed the build. Fixed the build. Fixed the build.
 19
 changed things... changed things... changed things...
+20
+Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium.
