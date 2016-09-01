@@ -20360,3 +20360,5 @@ fixed the israeli-palestinian conflict fixed the israeli-palestinian conflict fi
 Is there an award for this? Is there an award for this? Is there an award for this?
 14
 Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium.
+15
+Refactor factories, revisit visitors Refactor factories, revisit visitors Refactor factories, revisit visitors
