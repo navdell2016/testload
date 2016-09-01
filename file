@@ -4318,3 +4318,5 @@ Fix the fixes Fix the fixes Fix the fixes
 after of this commit remember do a git reset hard after of this commit remember do a git reset hard after of this commit remember do a git reset hard
 2141
 It worked for me... It worked for me... It worked for me...
+2142
+removed echo and die statements, lolz. removed echo and die statements, lolz. removed echo and die statements, lolz.
