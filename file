@@ -1197,3 +1197,5 @@ I don't know what the hell I was thinking. I don't know what the hell I was thin
 bug fix bug fix bug fix
 585
 Add Sandbox Add Sandbox Add Sandbox
+586
+Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium.
