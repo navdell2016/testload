@@ -16686,3 +16686,5 @@ Reset error count between rows. herpderp Reset error count between rows. herpder
 magic, have no clue but it works magic, have no clue but it works magic, have no clue but it works
 8271
 Merge pull request #67 from Lazersmoke/fix-andys-shit Fix andys shit Merge pull request #67 from Lazersmoke/fix-andys-shit Fix andys shit Merge pull request #67 from Lazersmoke/fix-andys-shit Fix andys shit
+8272
+after of this commit remember do a git reset hard after of this commit remember do a git reset hard after of this commit remember do a git reset hard
