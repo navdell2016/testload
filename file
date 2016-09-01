@@ -10681,3 +10681,5 @@ By works, I meant 'doesnt work'.  Works now.. By works, I meant 'doesnt work'.  
 SHIT ===> GOLD SHIT ===> GOLD SHIT ===> GOLD
 5288
 just checking if git is working properly... just checking if git is working properly... just checking if git is working properly...
+5289
+Fix hard-coded [object Object] string (thanks!) Fix hard-coded [object Object] string (thanks!) Fix hard-coded [object Object] string (thanks!)
