@@ -11577,3 +11577,5 @@ Fixed the fuck out of #462! Fixed the fuck out of #462! Fixed the fuck out of #4
 more fixes more fixes more fixes
 5730
 third time's a charm third time's a charm third time's a charm
+5731
+Fix hard-coded [object Object] string (thanks!) Fix hard-coded [object Object] string (thanks!) Fix hard-coded [object Object] string (thanks!)
