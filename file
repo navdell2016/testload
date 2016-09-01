@@ -5488,3 +5488,5 @@ I don't believe it I don't believe it I don't believe it
 pgsql is more strict, increase the hackiness up to 11 pgsql is more strict, increase the hackiness up to 11 pgsql is more strict, increase the hackiness up to 11
 2711
 s/import/include/ s/import/include/ s/import/include/
+2712
+Added a banner to the default admin page. Please have mercy on me =( Added a banner to the default admin page. Please have mercy on me =( Added a banner to the default admin page. Please have mercy on me =(
