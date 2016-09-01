@@ -17290,3 +17290,5 @@ Replace all whitespaces with tabs. Replace all whitespaces with tabs. Replace al
 fail fail fail
 8570
 SOAP is a piece of shit SOAP is a piece of shit SOAP is a piece of shit
+8571
+It'd be nice if type errors caused the compiler to issue a type error It'd be nice if type errors caused the compiler to issue a type error It'd be nice if type errors caused the compiler to issue a type error
