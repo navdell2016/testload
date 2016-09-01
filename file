@@ -3588,3 +3588,5 @@ This is why git rebase is a horrible horrible thing. This is why git rebase is a
 This is a basic implementation that works. This is a basic implementation that works. This is a basic implementation that works.
 1776
 after of this commit remember do a git reset hard after of this commit remember do a git reset hard after of this commit remember do a git reset hard
+1777
+dirty hack, have a better idea ? dirty hack, have a better idea ? dirty hack, have a better idea ?
