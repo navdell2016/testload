@@ -16292,3 +16292,5 @@ minor changes minor changes minor changes
 Blaming regex. Blaming regex. Blaming regex.
 8083
 i think i fixed a bug... i think i fixed a bug... i think i fixed a bug...
+8084
+after of this commit remember do a git reset hard after of this commit remember do a git reset hard after of this commit remember do a git reset hard
