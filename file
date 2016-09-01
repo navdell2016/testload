@@ -518,3 +518,5 @@ Now added delete for real Now added delete for real Now added delete for real
 Fixed errors Fixed errors Fixed errors
 247
 pgsql is being a pain pgsql is being a pain pgsql is being a pain
+248
+restored deleted entities just to be sure restored deleted entities just to be sure restored deleted entities just to be sure
