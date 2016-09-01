@@ -9106,3 +9106,5 @@ Misc. fixes Misc. fixes Misc. fixes
 changes changes changes
 4502
 arrrggghhhhh fixed! arrrggghhhhh fixed! arrrggghhhhh fixed!
+4503
+Fix hard-coded [object Object] string (thanks!) Fix hard-coded [object Object] string (thanks!) Fix hard-coded [object Object] string (thanks!)
