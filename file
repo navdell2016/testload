@@ -23457,3 +23457,5 @@ Same as last commit with changes Same as last commit with changes Same as last c
 Fixing coopermaruyama's bug. Fixing coopermaruyama's bug. Fixing coopermaruyama's bug.
 3
 Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium.
+4
+Chris broke the regex, lame Chris broke the regex, lame Chris broke the regex, lame
