@@ -3310,3 +3310,5 @@ That last commit message about silly mistakes pales in comparision to this one T
 . . .
 23
 fix bug, for realz fix bug, for realz fix bug, for realz
+24
+Fix hard-coded [object Object] string (thanks!) Fix hard-coded [object Object] string (thanks!) Fix hard-coded [object Object] string (thanks!)
