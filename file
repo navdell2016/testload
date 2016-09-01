@@ -5113,3 +5113,5 @@ bara bra grejjor bara bra grejjor bara bra grejjor
 We'll figure it out on Monday We'll figure it out on Monday We'll figure it out on Monday
 2531
 LAST time, Ryan, /dev/urandom IS NOT a variable name generator... LAST time, Ryan, /dev/urandom IS NOT a variable name generator... LAST time, Ryan, /dev/urandom IS NOT a variable name generator...
+2532
+Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium.
