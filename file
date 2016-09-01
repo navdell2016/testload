@@ -1791,3 +1791,5 @@ Fixed so the code compiles Fixed so the code compiles Fixed so the code compiles
 This is supposed to crash This is supposed to crash This is supposed to crash
 25
 SOAP is a piece of shit SOAP is a piece of shit SOAP is a piece of shit
+0
+Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium.
