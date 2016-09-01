@@ -3926,3 +3926,5 @@ It'd be nice if type errors caused the compiler to issue a type error It'd be ni
 forgot we're not using a smart language forgot we're not using a smart language forgot we're not using a smart language
 1945
 I CAN HAZ COMMENTZ. I CAN HAZ COMMENTZ. I CAN HAZ COMMENTZ.
+1946
+Fixed a bug in NoteLineCount... not seriously... Fixed a bug in NoteLineCount... not seriously... Fixed a bug in NoteLineCount... not seriously...
