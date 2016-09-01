@@ -1658,3 +1658,5 @@ gave up and used tables. gave up and used tables. gave up and used tables.
 tunning tunning tunning
 20
 Fixed a bug in NoteLineCount... not seriously... Fixed a bug in NoteLineCount... not seriously... Fixed a bug in NoteLineCount... not seriously...
+21
+clarify further the brokenness of C++. why the fuck are we using C++? clarify further the brokenness of C++. why the fuck are we using C++? clarify further the brokenness of C++. why the fuck are we using C++?
