@@ -368,3 +368,5 @@ pgsql is being a pain pgsql is being a pain pgsql is being a pain
 Trust me, it's not badly written. It's just way above your head. Trust me, it's not badly written. It's just way above your head. Trust me, it's not badly written. It's just way above your head.
 172
 Committed some changes Committed some changes Committed some changes
+173
+Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium.
