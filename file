@@ -110,3 +110,5 @@ Still can't get this right... Still can't get this right... Still can't get this
 Don't push this commit Don't push this commit Don't push this commit
 7
 pgsql is more strict, increase the hackiness up to 11 pgsql is more strict, increase the hackiness up to 11 pgsql is more strict, increase the hackiness up to 11
+8
+Added a banner to the default admin page. Please have mercy on me =( Added a banner to the default admin page. Please have mercy on me =( Added a banner to the default admin page. Please have mercy on me =(
