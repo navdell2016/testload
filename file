@@ -22,3 +22,5 @@ small is a real HTML tag, who knew. small is a real HTML tag, who knew. small is
 It'd be nice if type errors caused the compiler to issue a type error It'd be nice if type errors caused the compiler to issue a type error It'd be nice if type errors caused the compiler to issue a type error
 4
 stopped caring 20 commits ago stopped caring 20 commits ago stopped caring 20 commits ago
+0
+This is supposed to crash This is supposed to crash This is supposed to crash
