@@ -3275,3 +3275,5 @@ Argh! About to give up :( Argh! About to give up :( Argh! About to give up :(
 Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium.
 37
 debug suff debug suff debug suff
+38
+this should fix it this should fix it this should fix it
