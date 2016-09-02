@@ -1594,3 +1594,5 @@ We'll figure it out on Monday We'll figure it out on Monday We'll figure it out 
 assorted changes assorted changes assorted changes
 17
 s/import/include/ s/import/include/ s/import/include/
+18
+Fixed a bug in NoteLineCount... not seriously... Fixed a bug in NoteLineCount... not seriously... Fixed a bug in NoteLineCount... not seriously...
