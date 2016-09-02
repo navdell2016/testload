@@ -1598,3 +1598,5 @@ s/import/include/ s/import/include/ s/import/include/
 Fixed a bug in NoteLineCount... not seriously... Fixed a bug in NoteLineCount... not seriously... Fixed a bug in NoteLineCount... not seriously...
 19
 mergederp mergederp mergederp
+20
+fixed shit that havent been fixed in last commit fixed shit that havent been fixed in last commit fixed shit that havent been fixed in last commit
