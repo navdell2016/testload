@@ -146,3 +146,5 @@ One does not simply merge into master One does not simply merge into master One 
 I am Root. We are Root. I am Root. We are Root. I am Root. We are Root.
 22
 unionfind is no longer being molested. unionfind is no longer being molested. unionfind is no longer being molested.
+23
+Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium.
