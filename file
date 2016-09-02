@@ -1478,3 +1478,5 @@ pgsql is more strict, increase the hackiness up to 11 pgsql is more strict, incr
 typo typo typo
 36
 Don’t even try to refactor it. Don’t even try to refactor it. Don’t even try to refactor it.
+37
+Trying to fake a conflict Trying to fake a conflict Trying to fake a conflict
