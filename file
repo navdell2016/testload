@@ -1196,3 +1196,5 @@ herpderp (redux) herpderp (redux) herpderp (redux)
 changes changes changes
 3
 clarify further the brokenness of C++. why the fuck are we using C++? clarify further the brokenness of C++. why the fuck are we using C++? clarify further the brokenness of C++. why the fuck are we using C++?
+4
+fixed shit that havent been fixed in last commit fixed shit that havent been fixed in last commit fixed shit that havent been fixed in last commit
