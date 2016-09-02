@@ -108,3 +108,5 @@ Fixed the build. Fixed the build. Fixed the build.
 Still can't get this right... Still can't get this right... Still can't get this right...
 6
 Don't push this commit Don't push this commit Don't push this commit
+7
+pgsql is more strict, increase the hackiness up to 11 pgsql is more strict, increase the hackiness up to 11 pgsql is more strict, increase the hackiness up to 11
