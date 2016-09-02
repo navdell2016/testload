@@ -760,3 +760,5 @@ I don't know what the hell I was thinking. I don't know what the hell I was thin
 s/    /  /g s/    /  /g s/    /  /g
 2
 Your commit is writing checks your merge can't cash. Your commit is writing checks your merge can't cash. Your commit is writing checks your merge can't cash.
+3
+fixed conflicts (LOL merge -s ours; push -f) fixed conflicts (LOL merge -s ours; push -f) fixed conflicts (LOL merge -s ours; push -f)
