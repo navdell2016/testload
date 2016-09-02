@@ -12,3 +12,5 @@ Not one conflict, today was a good day. Not one conflict, today was a good day. 
 added security. added security. added security.
 6
 Make that it works in 90% of the cases.  3:30. Make that it works in 90% of the cases.  3:30. Make that it works in 90% of the cases.  3:30.
+7
+Fix hard-coded [object Object] string (thanks!) Fix hard-coded [object Object] string (thanks!) Fix hard-coded [object Object] string (thanks!)
