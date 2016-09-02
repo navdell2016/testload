@@ -2629,3 +2629,5 @@ pep8 - cause I fell like doing a barrel roll pep8 - cause I fell like doing a ba
 I'm hungry I'm hungry I'm hungry
 35
 Major fixup. Major fixup. Major fixup.
+36
+It'd be nice if type errors caused the compiler to issue a type error It'd be nice if type errors caused the compiler to issue a type error It'd be nice if type errors caused the compiler to issue a type error
