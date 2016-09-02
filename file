@@ -516,3 +516,5 @@ fixed some minor stuff, might need some additional work. fixed some minor stuff,
 lots and lots of changes lots and lots of changes lots and lots of changes
 8
 clarify further the brokenness of C++. why the fuck are we using C++? clarify further the brokenness of C++. why the fuck are we using C++? clarify further the brokenness of C++. why the fuck are we using C++?
+9
+Fix hard-coded [object Object] string (thanks!) Fix hard-coded [object Object] string (thanks!) Fix hard-coded [object Object] string (thanks!)
