@@ -828,3 +828,5 @@ hey, look over there! hey, look over there! hey, look over there!
 fail fail fail
 11
 small is a real HTML tag, who knew. small is a real HTML tag, who knew. small is a real HTML tag, who knew.
+12
+Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium. Use a real JS construct, WTF knows why this works in chromium.
