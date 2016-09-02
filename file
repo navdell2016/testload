@@ -3211,3 +3211,5 @@ Replace all whitespaces with tabs. Replace all whitespaces with tabs. Replace al
 debug suff debug suff debug suff
 5
 Push poorly written test can down the road another ten years Push poorly written test can down the road another ten years Push poorly written test can down the road another ten years
+6
+It'd be nice if type errors caused the compiler to issue a type error It'd be nice if type errors caused the compiler to issue a type error It'd be nice if type errors caused the compiler to issue a type error
