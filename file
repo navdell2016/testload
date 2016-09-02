@@ -130,3 +130,5 @@ s/    /  /g s/    /  /g s/    /  /g
 restored deleted entities just to be sure restored deleted entities just to be sure restored deleted entities just to be sure
 2
 Your commit is writing checks your merge can't cash. Your commit is writing checks your merge can't cash. Your commit is writing checks your merge can't cash.
+3
+Trying to fake a conflict Trying to fake a conflict Trying to fake a conflict
